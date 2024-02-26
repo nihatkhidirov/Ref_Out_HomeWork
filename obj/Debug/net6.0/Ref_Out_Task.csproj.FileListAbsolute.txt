@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\Ref_Out_Task\bin\Debug\net6.0\Ref_Out_Task.exe
+C:\Users\hp\Desktop\Task\Ref_Out_Task\bin\Debug\net6.0\Ref_Out_Task.deps.json
+C:\Users\hp\Desktop\Task\Ref_Out_Task\bin\Debug\net6.0\Ref_Out_Task.runtimeconfig.json
+C:\Users\hp\Desktop\Task\Ref_Out_Task\bin\Debug\net6.0\Ref_Out_Task.dll
+C:\Users\hp\Desktop\Task\Ref_Out_Task\bin\Debug\net6.0\Ref_Out_Task.pdb
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.dll
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\refint\Ref_Out_Task.dll
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.pdb
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\Ref_Out_Task.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\Ref_Out_Task\obj\Debug\net6.0\ref\Ref_Out_Task.dll
